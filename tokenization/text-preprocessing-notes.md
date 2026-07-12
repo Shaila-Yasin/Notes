@@ -284,11 +284,11 @@ Final Tokens
 
 ---
 
-## 📌 Project
+## Project
 
 This pipeline was implemented as part of a hands-on NLP preprocessing project.
 
-🔗 **Project Link:** [Add your project link here]
+**Project Link:** https://github.com/Shaila-Yasin/Basic_tokenizer
 
 ---
 
